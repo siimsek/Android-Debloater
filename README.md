@@ -1,2 +1,3 @@
-# debloater
-Debloat AOSP and MIUI
+# Debloater for Android Devices
+
+(Root Methot) Debloat AOSP and MIUI
