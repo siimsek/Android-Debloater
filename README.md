@@ -10,9 +10,11 @@
 
 3. <a id="raw-url" href="https://github.com/siimsek/debloater/releases/">Download File From Here</a>
 
-4. Extract file
+4. Extract Files
 
 5. Open "Debloat.bat" and Feel Freedom! :D
+
+If you have any problem contact me from <a id="raw-url" href="https://t.me/siimsek">Telegram</a>
 
 *Apps will not be deleted, only disabled.*
 
@@ -40,7 +42,6 @@
 > - com.google.android.videos | Google Play Movies & TV
 > - com.google.ar.lens | AR Lens
 > #### MIUI Bloatware,
-> 
 > - com.mi.globalTrendNews | Adware
 > - com.mi.webkit.core | Mi Webkit
 > - com.mipay.wallet.id | Mi Wallet
