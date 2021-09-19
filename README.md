@@ -35,7 +35,7 @@
 > - com.google.android.tts | Text-to-speech
 > - com.google.android.videos | Google Play Movies & TV
 > - com.google.ar.lens | AR Lens
-> ### #MIUI Bloatware,
+> ###MIUI Bloatware,
 > 
 > - com.mi.globalTrendNews | Adware
 > - com.mi.webkit.core | Mi Webkit
@@ -54,7 +54,7 @@
 > - com.miui.miwallpaper.mars | Live Wallpaper
 > - com.miui.msa.global | MSA or MIUI Ad Services
 > - com.miui.nextpay
-> - -com.miui.phrase | Frequent phrases
+> - com.miui.phrase | Frequent phrases
 > - com.miui.screenrecorder | Screen Recorder
 > - com.miui.weather2 | Weather app
 > - com.miui.yellowpage | Yellow Page app
