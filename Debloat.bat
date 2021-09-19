@@ -36,7 +36,7 @@ adb shell "su -c pm disable com.google.android.feedback"
 adb shell "su -c pm disable com.google.android.marvin.talkback"
 adb shell "su -c pm disable com.google.android.music"
 adb shell "su -c pm disable com.google.android.printservice.recommendation"
-adb shell "su -c pm disable com.google.android.syncadapters.calendar
+adb shell "su -c pm disable com.google.android.syncadapters.calendar"
 adb shell "su -c pm disable com.google.android.videos"
 adb shell "su -c pm disable com.google.ar.lens"
 adb shell "su -c pm disable com.mi.globalTrendNews"
