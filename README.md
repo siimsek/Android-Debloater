@@ -4,11 +4,15 @@
 > ***Only Windows for now.***
 
 ## How to Use?
-1. <a id="raw-url" href="https://github.com/siimsek/debloater/releases/">Download File From Here</a>
+1. Enable USB Debugging . <a id="raw-url" href="https://www.microfocus.com/documentation/silk-test/210/en/silktestworkbench-help-en/index.html?t=GUID-BE1EA2BA-EFF2-4B2D-8F09-4BEE0947DFB2.html"> Click to learn How to open USB Debugging?</a>
 
-2. Extract file
+2. Connect Device to PC
 
-3. Open "Debloat.bat" and Feel Freedom! :D
+3. <a id="raw-url" href="https://github.com/siimsek/debloater/releases/">Download File From Here</a>
+
+4. Extract file
+
+5. Open "Debloat.bat" and Feel Freedom! :D
 
 *Apps will not be deleted, only disabled.*
 
@@ -35,7 +39,7 @@
 > - com.google.android.tts | Text-to-speech
 > - com.google.android.videos | Google Play Movies & TV
 > - com.google.ar.lens | AR Lens
-> ###MIUI Bloatware,
+> #### MIUI Bloatware,
 > 
 > - com.mi.globalTrendNews | Adware
 > - com.mi.webkit.core | Mi Webkit
