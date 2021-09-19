@@ -4,7 +4,11 @@
 > ***Only Windows for now.***
 
 ## How to Use?
-Open "Debloat.bat" and Feel Freedom
+1. <a id="raw-url" href="https://github.com/siimsek/debloater/releases/">Download File From Here</a>
+
+2. Extract file
+
+3. Open "Debloat.bat" and Feel Freedom! :D
 
 *Apps will not be deleted, only disabled.*
 
