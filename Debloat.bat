@@ -1,4 +1,5 @@
 @echo off
+cd %cd%\adb
 adb shell "su -c pm disable com.google.android.apps.wellbeing"
 adb shell "su -c pm disable com.android.storagemanager"
 adb shell "su -c pm disable com.android.printspooler"
