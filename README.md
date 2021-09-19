@@ -3,6 +3,9 @@
 
 > ***Only Windows for now.***
 
+> ***Apps will not be deleted, only disabled.***
+
+> ***If you have any problem contact me from <a id="raw-url" href="https://t.me/siimsek">Telegram</a>***
 ## How to Use?
 1. Enable USB Debugging . <a id="raw-url" href="https://www.microfocus.com/documentation/silk-test/210/en/silktestworkbench-help-en/index.html?t=GUID-BE1EA2BA-EFF2-4B2D-8F09-4BEE0947DFB2.html"> Click to learn How to open USB Debugging?</a>
 
@@ -14,11 +17,8 @@
 
 5. Open "Debloat.bat" and Feel Freedom! :D
 
-If you have any problem contact me from <a id="raw-url" href="https://t.me/siimsek">Telegram</a>
 
-*Apps will not be deleted, only disabled.*
-
-****Apps going to be Disabled:****
+## Apps going to be Disabled:
 
 > #### Android Bloatware,
 > - com.android.bips | Default Printing Service
