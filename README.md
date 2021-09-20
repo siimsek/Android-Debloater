@@ -71,3 +71,38 @@
 > - com.xiaomi.mircs | MIUI to MIUI Message
 > - com.xiaomi.payment | Mi Pay
 > - com.xiaomi.simactivate.service
+> #### Samsung Bloatware,
+> - com.samsung.android.email.provider
+> - com.samsung.android.app.ledcoverdream
+> - com.sec.android.cover.ledcover
+> - com.sec.android.app.desktoplauncher
+> - com.sec.android.app.withtv
+> - com.samsung.android.app.memo
+> - com.sec.spp.push
+> - com.samsung.android.spay
+> - com.samsung.android.voicewakeup
+> - com.samsung.voiceserviceplatform
+> - com.sec.android.sidesync30
+> - com.samsung.android.hmt.vrsvc
+> - com.samsung.android.app.vrsetupwizardstub
+> - com.samsung.android.hmt.vrshell
+> - com.android.exchange
+> - com.samsung.groupcast
+> - com.sec.kidsplat.installer
+> - com.sec.android.widgetapp.diotek.smemo
+> - com.sec.android.provider.snote
+> - com.sec.android.app.translator
+> - com.vlingo.midas
+> - com.sec.readershub
+> - com.sec.android.app.gamehub
+> - com.sec.everglades.update
+> - com.sec.everglades
+> - tv.peel.samsung.app
+> - com.sec.yosemite.phone
+> - com.samsung.android.app.episodes
+> - com.samsung.android.app.storyalbumwidget
+> - com.samsung.android.tripwidget
+> - com.samsung.android.service.travel
+> - com.tripadvisor.tripadvisor
+> - com.android.email
+> - com.sec.android.app.ocr
