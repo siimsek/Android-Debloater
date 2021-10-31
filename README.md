@@ -1,5 +1,5 @@
 
-# Debloater for Android Devices
+# Debloater for Android Devices Both Rooted and NonRooted Devices
 
 > ***Only Windows for now.***
 
@@ -15,7 +15,9 @@
 
 4. Extract Files
 
-5. Open "Debloat.bat" and Feel Freedom! :D
+5. If u are Rooted user open "ROOT-Debloat.bat" , if u are NONROOTed user then open "NONROOT-Debloat.bat" and Feel Freedom! :D
+
+6. If u want to revert changes. Open "Revoke.bat" file.
 
 
 ## Apps going to be Disabled:
