@@ -3,7 +3,7 @@
 
 > ***Only Windows for now.***
 
-> ***Apps will not be deleted, only disabled.***
+> ***Apps will not be deleted, only disabled.(Now added uninstall script.)***
 
 > ***If you have any problem contact me from <a id="raw-url" href="https://t.me/siimsek">Telegram</a>***
 ## How to Use?
