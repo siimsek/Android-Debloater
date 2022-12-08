@@ -1,5 +1,5 @@
-# debloater
-Debloat AOSP and MIUI
+# Android Debloater
+Debloat AOSP, MIUI, OneUI...
 
 # Debloater for Android Devices Both Rooted and NonRooted Devices
 
